@@ -1,5 +1,7 @@
 # Self-hosted cloud services
-This repositoy contains ready to go cloud service for a self-hosted server (NextCloud for file storage, Jellyfin for video streaming...)
+This repositoy contains ready to go cloud service for a self-hosted server
+- [NextCloud](https://nextcloud.com/) for all data sync (contacts, calendar, photos...)
+- [Jellyfin](https://jellyfin.org/) for video streaming
 
 # Run
 All the services and platforms runs under docker container and they are pulled from docker-hub dicrectly.
